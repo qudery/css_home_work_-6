@@ -1,0 +1,43 @@
+body{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+}
+
+header{}
+.container{
+width: 70%;
+border: 1px solid orange;
+margin: auto;
+}
+.navigation-menu{
+    overflow: hidden;
+}
+.logo{
+    width: 25%;
+    border: 1px solid red;
+    float: right;
+}
+.logo image{
+    width: 100%;
+}
+
+.menu{
+    float: left;
+    width: 75%;
+    border: 1px solid green;
+}
+.menu nav{}
+.menu nav il{}
+.menu nav ul li{
+    list-style: none;
+}
+.menu nav ul a{
+    font-size: 16px;
+    color: royalblue;
+    line-height: 26px;
+    text-transform: capitalize;
+    text-decoration: none;
+}
+
